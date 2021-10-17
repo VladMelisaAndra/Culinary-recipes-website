@@ -1,0 +1,16 @@
+{
+    "test": [
+      {
+       "question": "Adaugam cartofii in tigaie atunci cand uleiul este incins?",
+       "answer": "Nu, ii adaugam atunci cand este rece."
+      },
+      {
+        "question": "Sunt deserturile cel mai greu de gatit?",
+        "answer": "Nu, exista si deserturi rapide pe care oricine le poate prepara."
+      },
+      {
+          "question": "Salata trebuie rupta obligatoriu cu mana?",
+          "answer": "Da, pentru ca altfel isi pierde din proprietati."
+      }
+    ]
+}

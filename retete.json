@@ -1,0 +1,50 @@
+[
+    {
+	  "id":1,
+	  "tip" : "dulce",
+      "titlu": "Cheesecake cu fructe de padure fara coacere",
+      "yt_url": "https://www.youtube.com/embed/sWjbZFF0mfk",
+      "descriere": "Reteta de cheesecake cu fructe de padure e una dintre cele mai bune retete ale acestui tip de desert pe care le-am incercat pana acum. Am tot facut cheesecake-uri de-a lungul timpului. Atat fara coacere, cum e cheesecake-ul cu capsuni, cat si cu coacere cum este cel New York style. ",
+	  "ingrediente" : ["150g faina", "150 oua","1 lingura vanilie"]
+    },
+    {
+	  "id":2,
+	  "tip" : "dulce",
+      "titlu": "Prajitura ou de Paste cu fructe asortate",
+      "yt_url": "https://www.youtube.com/embed/h7U2AIxe8Ho",
+      "descriere": "Reteta de prajitura ou de Paste era necesara in repertoriul JamilaCuisine. Pana acum am facut doar retetele traditionale pentru Paste. Am facut mai multe tipuri de pasca si bineinteles, cozonac. ",
+	  "ingrediente" : ["150g faina", "700 capsuni", "3 kg pesmet", "150 oua"]
+    },
+	{
+	  "id":3,
+	  "tip" : "dulce",
+      "titlu": "Prajitura martisor, cadoul perfect pentru 1 Martie",
+      "yt_url": "https://www.youtube.com/embed/oRi4K8Bq9dY",
+      "descriere": "Cea mai gustoasa prajitura, trebuie neaparat sa o inceracati! Timpul de preparare este de 10 minute.",
+	  "ingrediente" : ["150g faina", "150 oua","pesmet","iaurt dulce"]
+  },
+  {
+	  "id":4,
+	  "tip" : "mancare",
+      "titlu": "Sandwichuri calde rapide si gustoase",
+      "yt_url": "https://www.youtube.com/embed/bik6pgR-qmU",
+      "descriere": "Reteta de sandwichuri calde este ideala atunci cand vreti sa folositi alimentele din frigider. Nu stiu cum e la voi, dar la noi raman mereu alimente de la pranz sau cina.",
+	  "ingrediente" : ["150g faina", "1 paine","500g pesmet","1 iaurt dulce","1 kg rosii","salam"]
+  },
+  {
+	  "id":5,
+	  "tip" : "mancare",
+      "titlu": "Cartofi impanati cu afumatura la cuptor",
+      "yt_url": "https://www.youtube.com/embed/gncKDiMSfZM",
+      "descriere": "Reteta de cartofi impanati la cuptor ieste ideala pentru momentele in care nu mai stim ce sa gatim si cand nici nu avem prea multe in frigider. Cartofi avem cu totii, la fel si ceva afumatura si cascaval.",
+	  "ingrediente" : ["150g faina", "150 oua","1kg cartofi","iaurt dulce"]
+  },
+  {
+	  "id":6,
+	  "tip" : "mancare",
+      "titlu": "Cheeseburger cu ceapa caramelizata",
+      "yt_url": "https://www.youtube.com/embed/nV9GvujesX0",
+      "descriere": "Nu stiu cum e la voi, dar la noi reteta de cheeseburger cu ceapa caramelizata este la loc de cinste. Prefer sa fac in casa burgerii in loc sa-i comand de la restaurant si mai ales de la cele fast food.",
+	  "ingrediente" : ["150g faina","paine", "150 oua","1kg cartofi","iaurt dulce"]
+  }
+]
